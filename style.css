@@ -1,0 +1,33 @@
+#apple{
+    color: red;
+}
+
+#watermalon{
+    color: red;
+}
+
+#Strawberry{
+    color: brown;
+}
+
+#orange{
+    color: orange;
+}
+
+#grapes{
+    color: green;
+}
+
+#lemon{
+    color: yellow;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+img{
+    height: 200px;
+    width: 225px;
+}
